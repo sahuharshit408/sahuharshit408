@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **sahuharshit.408@gmail.com**
 
-- ⚡ Fun fact **I’ve watched every World Cup match for the last decade and can recite key highlights from each tournament!**
+- ⚡ Fun fact **I’ve watched every Cricket match for the last decade and can recite key highlights from each tournament!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
