@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on [Secure VPN](https://github.com/sahuharshit408/SecureVPN.git)
 
-- 🌱 I’m currently learning **NodeJs**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **Android, Flutter, Java**
 
